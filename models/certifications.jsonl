@@ -1,0 +1,607 @@
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "communication"}, {"LOWER": "systems"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ecological"}, {"LOWER": "restoration"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "secure"}, {"LOWER": "software"}, {"LOWER": "lifecycle"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cisco"}, {"LOWER": "network"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "internet"}, {"LOWER": "of"}, {"LOWER": "things"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "construction"}, {"LOWER": "planning"}, {"LOWER": "and"}, {"LOWER": "scheduling"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "wireless"}, {"LOWER": "network"}, {"LOWER": "administrator"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "concrete"}, {"LOWER": "field"}, {"LOWER": "testing"}, {"LOWER": "technicia"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "big"}, {"LOWER": "data"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "wireless"}, {"LOWER": "network"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "rotating"}, {"LOWER": "equipment"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "waterfront"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "municipal"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "web"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "blockchain"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "security"}, {"LOWER": "officer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "security"}, {"LOWER": "professional"}, {"LOWER": "-"}, {"LOWER": "management"}, {"LOWER": "(cissp-issmp)"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "security"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "security"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "structural"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "hydraulic"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "leed"}, {"LOWER": "certification"}, {"LOWER": "(leadership"}, {"LOWER": "in"}, {"LOWER": "energy"}, {"LOWER": "and"}, {"LOWER": "environmental"}, {"LOWER": "design)"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "disaster"}, {"LOWER": "recovery"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "salesforce"}, {"LOWER": "administrator"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "application"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "coastal"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ar/vr"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "vulnerability"}, {"LOWER": "assessment"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "security"}, {"LOWER": "professional"}, {"LOWER": "-"}, {"LOWER": "architecture"}, {"LOWER": "(cissp-issap)"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": ":"}, {"LOWER": "azure"}, {"LOWER": "solutions"}, {"LOWER": "architect"}, {"LOWER": "expert"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ai"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "edge"}, {"LOWER": "computing"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "devops"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "railway"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "pressure"}, {"LOWER": "vessel"}, {"LOWER": "inspector"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "construction"}, {"LOWER": "safety"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "governance"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "embedded"}, {"LOWER": "systems"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "data"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "advanced"}, {"LOWER": "transportation"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "resilience"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "it"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "incident"}, {"LOWER": "handler"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "environmental"}, {"LOWER": "planner"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "operations"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "wireless"}, {"LOWER": "network"}, {"LOWER": "expert"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "awareness"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "big"}, {"LOWER": "data"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "security"}, {"LOWER": "professional"}, {"LOWER": "-"}, {"LOWER": "engineering"}, {"LOWER": "(cissp-issep)"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "quantum"}, {"LOWER": "computing"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "wireless"}, {"LOWER": "security"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "auditor"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "analog"}, {"LOWER": "circuit"}, {"LOWER": "design"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "ai"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "robotics"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "noise"}, {"LOWER": "control"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "structural"}, {"LOWER": "rehabilitation"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "edge"}, {"LOWER": "computing"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "data"}, {"LOWER": "science"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "industrial"}, {"LOWER": "hydraulics"}, {"LOWER": "technicia"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "advanced"}, {"LOWER": "robotics"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "risk"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "building"}, {"LOWER": "energy"}, {"LOWER": "modeling"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "thermal"}, {"LOWER": "systems"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "computer"}, {"LOWER": "network"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "welding"}, {"LOWER": "inspector"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "edge"}, {"LOWER": "computing"}, {"LOWER": "security"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ar/vr"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "big"}, {"LOWER": "data"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "big"}, {"LOWER": "data"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "water"}, {"LOWER": "resources"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "broadband"}, {"LOWER": "technology"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "augmented"}, {"LOWER": "reality"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "developer"}, {"LOWER": "-"}, {"LOWER": "ethereum"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "project"}, {"LOWER": "management"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "internet"}, {"LOWER": "of"}, {"LOWER": "things"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "risk"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "security"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "satellite"}, {"LOWER": "communication"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "automotive"}, {"LOWER": "performance"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "auditor"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "big"}, {"LOWER": "data"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "native"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "edge"}, {"LOWER": "blockchain"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "urban"}, {"LOWER": "drainage"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "digital"}, {"LOWER": "forensics"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "risk"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "solutions"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "control"}, {"LOWER": "systems"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "geospatial"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "automotive"}, {"LOWER": "connectivity"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "edge"}, {"LOWER": "computing"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "governance"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "network"}, {"LOWER": "defense"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "urban"}, {"LOWER": "infrastructure"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "policy"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "reinforced"}, {"LOWER": "concrete"}, {"LOWER": "special"}, {"LOWER": "inspector"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "telecommunication"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "construction"}, {"LOWER": "materials"}, {"LOWER": "testing"}, {"LOWER": "technicia"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "devops"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "quantum"}, {"LOWER": "computing"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "iot"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "risk"}, {"LOWER": "and"}, {"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "control"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "bridge"}, {"LOWER": "rehabilitation"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "bridge"}, {"LOWER": "inspector"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "solidworks"}, {"LOWER": "associate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "urban"}, {"LOWER": "and"}, {"LOWER": "regional"}, {"LOWER": "planner"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "5g"}, {"LOWER": "professional"}, {"LOWER": "(c5gp)"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "it"}, {"LOWER": "service"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "big"}, {"LOWER": "data"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "data"}, {"LOWER": "management"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "manufacturing"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "forensic"}, {"LOWER": "structural"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "iot"}, {"LOWER": "security"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "systems"}, {"LOWER": "administrator"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "solution"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "stormwater"}, {"LOWER": "management"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "six"}, {"LOWER": "sigma"}, {"LOWER": "green"}, {"LOWER": "belt/black"}, {"LOWER": "belt"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "antenna"}, {"LOWER": "design"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "industrial"}, {"LOWER": "internet"}, {"LOWER": "of"}, {"LOWER": "things"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "scrummaster"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "edge"}, {"LOWER": "computing"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "structural"}, {"LOWER": "steel"}, {"LOWER": "inspector"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microwave"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "red"}, {"LOWER": "hat"}, {"LOWER": "system"}, {"LOWER": "administrator"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "auditor"}, {"LOWER": "-"}, {"LOWER": "wireless"}, {"LOWER": "(cisa-w)"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "network"}, {"LOWER": "security"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "security"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "consultant"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "strategy"}, {"LOWER": "consultant"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "structural"}, {"LOWER": "masonry"}, {"LOWER": "inspector"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cisco"}, {"LOWER": "network"}, {"LOWER": "associate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "data"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "composite"}, {"LOWER": "technicia"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "network"}, {"LOWER": "planning"}, {"LOWER": "and"}, {"LOWER": "optimization"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "edge"}, {"LOWER": "iot"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "irrigation"}, {"LOWER": "designer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "vibration"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "data"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "data"}, {"LOWER": "analysis"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "python"}, {"LOWER": "programming"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "azure"}, {"LOWER": "data"}, {"LOWER": "scientist"}, {"LOWER": "associate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}, {"LOWER": "foundation"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "blockchain"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "pavement"}, {"LOWER": "inspector"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "blockchain"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "incident"}, {"LOWER": "handling"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "technology"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "high-rise"}, {"LOWER": "building"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "wind"}, {"LOWER": "turbine"}, {"LOWER": "technicia"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "security"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "pipeline"}, {"LOWER": "design"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "azure"}, {"LOWER": "developer"}, {"LOWER": "associate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "computer"}, {"LOWER": "programmer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "network"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "robotics"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "database"}, {"LOWER": "administrator"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "autodesk"}, {"LOWER": "inventor"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "solidworks"}, {"LOWER": "expert"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "computer"}, {"LOWER": "vision"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "software"}, {"LOWER": "security"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "fire"}, {"LOWER": "protection"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "security"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "edge"}, {"LOWER": "computing"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cisco"}, {"LOWER": "network"}, {"LOWER": "associate"}, {"LOWER": "-"}, {"LOWER": "wireless"}, {"LOWER": "(ccna"}, {"LOWER": "wireless)"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "bridge"}, {"LOWER": "safety"}, {"LOWER": "inspector"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "ai"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "combustion"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "software"}, {"LOWER": "development"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "aerospace"}, {"LOWER": "structures"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "demolition"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "governance"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "awareness"}, {"LOWER": "trainer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "comptia"}, {"LOWER": "network+"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "internet"}, {"LOWER": "of"}, {"LOWER": "things"}, {"LOWER": "security"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "highway"}, {"LOWER": "safety"}, {"LOWER": "inspector"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "iot"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "security"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "nuclear"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "software"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "security"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ergonomics"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "automotive"}, {"LOWER": "cybersecurity"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "computing"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "seismic"}, {"LOWER": "design"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "computer"}, {"LOWER": "hardware"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "expert"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "serverless"}, {"LOWER": "computing"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "iot"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "pump"}, {"LOWER": "system"}, {"LOWER": "auditor"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "edge"}, {"LOWER": "iot"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "comptia"}, {"LOWER": "security+"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "compliance"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cisco"}, {"LOWER": "cyberops"}, {"LOWER": "associate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "environmental"}, {"LOWER": "compliance"}, {"LOWER": "auditor"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "industrial"}, {"LOWER": "network"}, {"LOWER": "security"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "product"}, {"LOWER": "lifecycle"}, {"LOWER": "management"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ai"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "energy"}, {"LOWER": "auditor"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cyber-physical"}, {"LOWER": "systems"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "wind"}, {"LOWER": "engineering"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "water"}, {"LOWER": "resources"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "internet"}, {"LOWER": "of"}, {"LOWER": "things"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cold-formed"}, {"LOWER": "steel"}, {"LOWER": "design"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": ":"}, {"LOWER": "azure"}, {"LOWER": "administrator"}, {"LOWER": "associate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "nanotechnology"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "endpoint"}, {"LOWER": "security"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "hydrology"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "data"}, {"LOWER": "analytics"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "industrial"}, {"LOWER": "communication"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "iot"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "native"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "data"}, {"LOWER": "privacy"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "network"}, {"LOWER": "function"}, {"LOWER": "virtualization"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "construction"}, {"LOWER": "quality"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "robotics"}, {"LOWER": "process"}, {"LOWER": "automation"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "migration"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "tribologist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "digital"}, {"LOWER": "signal"}, {"LOWER": "processing"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "industrial"}, {"LOWER": "gas"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "materials"}, {"LOWER": "&"}, {"LOWER": "corrosion"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "gas"}, {"LOWER": "turbine"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "ai"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "compliance"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "wireless"}, {"LOWER": "network"}, {"LOWER": "security"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "professional"}, {"LOWER": "constructor"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "natural"}, {"LOWER": "language"}, {"LOWER": "processing"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "construction"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "scrum"}, {"LOWER": "product"}, {"LOWER": "owner"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "ai"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "sustainable"}, {"LOWER": "design"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "industrial"}, {"LOWER": "wireless"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "mechanical"}, {"LOWER": "system"}, {"LOWER": "integration"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "blockchain"}, {"LOWER": "developer"}, {"LOWER": "-"}, {"LOWER": "hyperledger"}, {"LOWER": "fabric"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "kubernetes"}, {"LOWER": "administrator"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "security"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "refrigeration"}, {"LOWER": "systems"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "kubernetes"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "professional"}, {"LOWER": "land"}, {"LOWER": "surveyor"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}, {"LOWER": "expert"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "railway"}, {"LOWER": "track"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "edge"}, {"LOWER": "computing"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "radio"}, {"LOWER": "frequency"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "native"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "natural"}, {"LOWER": "language"}, {"LOWER": "processing"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ar/vr"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "machinist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "land"}, {"LOWER": "development"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "incident"}, {"LOWER": "responder"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "network"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "iot"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "storage"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "security"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "safety"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "electronics"}, {"LOWER": "technicia"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "salesforce"}, {"LOWER": "platform"}, {"LOWER": "app"}, {"LOWER": "builder"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "training"}, {"LOWER": "coordinator"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "computer"}, {"LOWER": "systems"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "heat"}, {"LOWER": "exchanger"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "quantum"}, {"LOWER": "communication"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "wireless"}, {"LOWER": "design"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "transportation"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "penetration"}, {"LOWER": "testing"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "underground"}, {"LOWER": "utility"}, {"LOWER": "locator"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "concrete"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "offshore"}, {"LOWER": "structure"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "hvac"}, {"LOWER": "designer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "aerospace"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "professional"}, {"LOWER": "data"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "quantum"}, {"LOWER": "computing"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "security"}, {"LOWER": "auditor"}, {"LOWER": "(cis"}, {"LOWER": "auditor)"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "heritage"}, {"LOWER": "conservation"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "power"}, {"LOWER": "plant"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "mechanical"}, {"LOWER": "testing"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "comptia"}, {"LOWER": "a+"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "vmware"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "building"}, {"LOWER": "official"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "malware"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "fluid"}, {"LOWER": "power"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "software"}, {"LOWER": "tester"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "automation"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "forensic"}, {"LOWER": "investigator"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "devops"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "security"}, {"LOWER": "architecture"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "advanced"}, {"LOWER": "thermodynamics"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "construction"}, {"LOWER": "specifier"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "hydraulic"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "soil"}, {"LOWER": "erosion"}, {"LOWER": "control"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "automation"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "systems"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cryogenics"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "software"}, {"LOWER": "quality"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ethical"}, {"LOWER": "hacker"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "security"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "internet"}, {"LOWER": "of"}, {"LOWER": "things"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "floodplain"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "edge"}, {"LOWER": "blockchain"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "solar"}, {"LOWER": "thermal"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "technology"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "solidworks"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "geotechnical"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "security"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "disaster"}, {"LOWER": "recovery"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "hvac"}, {"LOWER": "commissioning"}, {"LOWER": "agent"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "iot"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "security"}, {"LOWER": "professional"}, {"LOWER": "-"}, {"LOWER": "concentration"}, {"LOWER": "in"}, {"LOWER": "architecture"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "pipeline"}, {"LOWER": "inspector"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "professional"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "threat"}, {"LOWER": "intelligence"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "red"}, {"LOWER": "hat"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cyber"}, {"LOWER": "forensics"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "wireless"}, {"LOWER": "communication"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "iot"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "internet"}, {"LOWER": "of"}, {"LOWER": "things"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "forensic"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "itil"}, {"LOWER": "foundation"}, {"LOWER": "certificatio"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "fpga"}, {"LOWER": "design"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "containerization"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "program"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "professional"}, {"LOWER": "cloud"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "aws"}, {"LOWER": "sysops"}, {"LOWER": "administrator"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "security"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "water"}, {"LOWER": "quality"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "networked"}, {"LOWER": "control"}, {"LOWER": "systems"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "enterprise"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "artificial"}, {"LOWER": "intelligence"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "solar"}, {"LOWER": "energy"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "geotechnical"}, {"LOWER": "inspector"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "aws"}, {"LOWER": "solutions"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "turbomachinery"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "digital"}, {"LOWER": "communication"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cost"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "boiler"}, {"LOWER": "operator"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cyber-physical"}, {"LOWER": "systems"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "penetration"}, {"LOWER": "tester"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "embedded"}, {"LOWER": "systems"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "ai"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "big"}, {"LOWER": "data"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "optical"}, {"LOWER": "communication"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "technology"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "hvac"}, {"LOWER": "performance"}, {"LOWER": "technicia"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "process"}, {"LOWER": "safety"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "renewable"}, {"LOWER": "energy"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "tunneling"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "marine"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "programming"}, {"LOWER": "data"}, {"LOWER": "structures"}, {"LOWER": "and"}, {"LOWER": "algorithms"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "landslide"}, {"LOWER": "remediation"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "azure"}, {"LOWER": "ai"}, {"LOWER": "fundementals"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "algorithm"}, {"LOWER": "toolbox"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "security"}, {"LOWER": "manager"}, {"LOWER": "-"}, {"LOWER": "wireless"}, {"LOWER": "(cism-w)"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "highway"}, {"LOWER": "safety"}, {"LOWER": "technicia"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "aws"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "cost"}, {"LOWER": "management"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "virtual"}, {"LOWER": "reality"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "automotive"}, {"LOWER": "electronics"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "soils"}, {"LOWER": "technicia"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "wireless"}, {"LOWER": "technology"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "disaster"}, {"LOWER": "management"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "smart"}, {"LOWER": "grid"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "building"}, {"LOWER": "information"}, {"LOWER": "modeling"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "data"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "hydroelectric"}, {"LOWER": "dam"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "auditor"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "iot"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "power"}, {"LOWER": "electronics"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "risk"}, {"LOWER": "and"}, {"LOWER": "compliance"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "piping"}, {"LOWER": "design"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "environmental"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "edge"}, {"LOWER": "ai"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "earthquake"}, {"LOWER": "engineering"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "security"}, {"LOWER": "professional"}, {"LOWER": "-"}, {"LOWER": "wireless"}, {"LOWER": "(cissp-w)"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "wireless"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "analytics"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "security"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "quantum"}, {"LOWER": "computing"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "maintenance"}, {"LOWER": "and"}, {"LOWER": "reliability"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "embedded"}, {"LOWER": "systems"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "deep"}, {"LOWER": "learning"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "big"}, {"LOWER": "data"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "practitioner"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "mobile"}, {"LOWER": "application"}, {"LOWER": "developer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "devops"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "performance"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "security"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "infrastructure"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "big"}, {"LOWER": "data"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "cost"}, {"LOWER": "management"}, {"LOWER": "analyst"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "professional"}, {"LOWER": "bridge"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "energy"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "architect"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "wireless"}, {"LOWER": "network"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "corrosion"}, {"LOWER": "technicia"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "network"}, {"LOWER": "defender"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "risk"}, {"LOWER": "manager"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cybersecurity"}, {"LOWER": "education"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "sustainability"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "wireless"}, {"LOWER": "analysis"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "privacy"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "steam"}, {"LOWER": "system"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "vlsi"}, {"LOWER": "design"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "fluid"}, {"LOWER": "mechanics"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "network"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "edge"}, {"LOWER": "ai"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ai"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "quantum"}, {"LOWER": "computing"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "network"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "virtualization"}, {"LOWER": "specialist"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "data"}, {"LOWER": "science"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cloud"}, {"LOWER": "blockchain"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "foundation"}, {"LOWER": "design"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "reliability"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "highway"}, {"LOWER": "design"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "information"}, {"LOWER": "systems"}, {"LOWER": "security"}, {"LOWER": "engineer"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "cybersecurity"}, {"LOWER": "analyst"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "aws"}, {"LOWER": "cloud"}, {"LOWER": "technology"}, {"LOWER": "consultant"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "power"}, {"LOWER": "bi"}, {"LOWER": "data"}, {"LOWER": "analyst"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "front-end"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "it"}, {"LOWER": "project"}, {"LOWER": "manager"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "tableau"}, {"LOWER": "business"}, {"LOWER": "intelligence"}, {"LOWER": "analyst"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "and"}, {"LOWER": "isc2"}, {"LOWER": "cybersecurity"}, {"LOWER": "specialist"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "social"}, {"LOWER": "media"}, {"LOWER": "marketing"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "cybersecurity"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "digital"}, {"LOWER": "marketing"}, {"LOWER": "&"}, {"LOWER": "e-commerce"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "intuit"}, {"LOWER": "academy"}, {"LOWER": "bookkeeping"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "salesforce"}, {"LOWER": "sales"}, {"LOWER": "operations"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "ios"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "back-end"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "database"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "data"}, {"LOWER": "science"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "cybersecurity"}, {"LOWER": "analyst"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "sap"}, {"LOWER": "technology"}, {"LOWER": "consultant"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "hrci"}, {"LOWER": "human"}, {"LOWER": "resource"}, {"LOWER": "associate"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "keller"}, {"LOWER": "williams"}, {"LOWER": "real"}, {"LOWER": "estate"}, {"LOWER": "agent"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "project"}, {"LOWER": "manager"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "front-end"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "fractal"}, {"LOWER": "data"}, {"LOWER": "science"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "akamai"}, {"LOWER": "customer"}, {"LOWER": "consulting"}, {"LOWER": "and"}, {"LOWER": "support"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "akamai"}, {"LOWER": "network"}, {"LOWER": "engineering"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "marketing"}, {"LOWER": "analytics"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cvs"}, {"LOWER": "health"}, {"LOWER": "retail"}, {"LOWER": "customer"}, {"LOWER": "service"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "cvs"}, {"LOWER": "health"}, {"LOWER": "call"}, {"LOWER": "center"}, {"LOWER": "customer"}, {"LOWER": "service"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "android"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "devops"}, {"LOWER": "and"}, {"LOWER": "software"}, {"LOWER": "engineering"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "data"}, {"LOWER": "engineering"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "data"}, {"LOWER": "analyst"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "data"}, {"LOWER": "analytics"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "project"}, {"LOWER": "management:"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "full"}, {"LOWER": "stack"}, {"LOWER": "software"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "goodwill�"}, {"LOWER": "career"}, {"LOWER": "coach"}, {"LOWER": "and"}, {"LOWER": "navigator"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "data"}, {"LOWER": "analytics"}, {"LOWER": "with"}, {"LOWER": "excel"}, {"LOWER": "and"}, {"LOWER": "r"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "back-end"}, {"LOWER": "development"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "it"}, {"LOWER": "support"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "it"}, {"LOWER": "support"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "ux"}, {"LOWER": "design"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "salesforce"}, {"LOWER": "sales"}, {"LOWER": "development"}, {"LOWER": "representative"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "data"}, {"LOWER": "warehouse"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "tally"}, {"LOWER": "bookkeeper"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "pwc"}, {"LOWER": "gst"}, {"LOWER": "taxation"}, {"LOWER": "executive"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "mainframe"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "advanced"}, {"LOWER": "data"}, {"LOWER": "analytics"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "business"}, {"LOWER": "intelligence"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "ar"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "aws"}, {"LOWER": "cloud"}, {"LOWER": "solutions"}, {"LOWER": "architect"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "azure"}, {"LOWER": "data"}, {"LOWER": "scientist"}, {"LOWER": "associate"}, {"LOWER": "(dp-100)"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "it"}, {"LOWER": "automation"}, {"LOWER": "with"}, {"LOWER": "python"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "deeplearning.ai"}, {"LOWER": "tensorflow"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "applied"}, {"LOWER": "devops"}, {"LOWER": "engineering"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "azure"}, {"LOWER": "developer"}, {"LOWER": "associate"}, {"LOWER": "(az-204)"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "azure"}, {"LOWER": "data"}, {"LOWER": "engineering"}, {"LOWER": "associate"}, {"LOWER": "(dp-203)"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "professional"}, {"LOWER": "workspace"}, {"LOWER": "administrator"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "digital"}, {"LOWER": "leader"}, {"LOWER": "training"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "sas"}, {"LOWER": "advanced"}, {"LOWER": "programmer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "palo"}, {"LOWER": "alto"}, {"LOWER": "networks"}, {"LOWER": "cybersecurity"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "certnexus"}, {"LOWER": "certified"}, {"LOWER": "data"}, {"LOWER": "science"}, {"LOWER": "practitioner"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "certnexus"}, {"LOWER": "certified"}, {"LOWER": "ethical"}, {"LOWER": "emerging"}, {"LOWER": "technologist"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "uci"}, {"LOWER": "project"}, {"LOWER": "management"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "devops"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "security"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "network"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "architect"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "ai"}, {"LOWER": "engineering"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "applied"}, {"LOWER": "ai"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "data"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "sas"}, {"LOWER": "programmer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "z/os"}, {"LOWER": "mainframe"}, {"LOWER": "practitioner"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "sas"}, {"LOWER": "visual"}, {"LOWER": "business"}, {"LOWER": "analytics"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "arizona"}, {"LOWER": "state"}, {"LOWER": "university"}, {"LOWER": "tesol"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "sas"}, {"LOWER": "statistical"}, {"LOWER": "business"}, {"LOWER": "analyst"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "cybersecurity"}, {"LOWER": "analyst"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "power"}, {"LOWER": "bi"}, {"LOWER": "data"}, {"LOWER": "analyst"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "tableau"}, {"LOWER": "business"}, {"LOWER": "intelligence"}, {"LOWER": "analyst"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "social"}, {"LOWER": "media"}, {"LOWER": "marketing"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "intuit"}, {"LOWER": "academy"}, {"LOWER": "bookkeeping"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "hrci"}, {"LOWER": "human"}, {"LOWER": "resource"}, {"LOWER": "associate"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "project"}, {"LOWER": "manager"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "marketing"}, {"LOWER": "analytics"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "project"}, {"LOWER": "management:"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "ar"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "aws"}, {"LOWER": "cloud"}, {"LOWER": "solutions"}, {"LOWER": "architect"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "azure"}, {"LOWER": "data"}, {"LOWER": "scientist"}, {"LOWER": "associate"}, {"LOWER": "(dp-100)"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "deeplearning.ai"}, {"LOWER": "tensorflow"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "applied"}, {"LOWER": "devops"}, {"LOWER": "engineering"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "azure"}, {"LOWER": "developer"}, {"LOWER": "associate"}, {"LOWER": "(az-204)"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "azure"}, {"LOWER": "data"}, {"LOWER": "engineering"}, {"LOWER": "associate"}, {"LOWER": "(dp-203)"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "professional"}, {"LOWER": "workspace"}, {"LOWER": "administrator"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "digital"}, {"LOWER": "leader"}, {"LOWER": "training"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "palo"}, {"LOWER": "alto"}, {"LOWER": "networks"}, {"LOWER": "cybersecurity"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "certnexus"}, {"LOWER": "certified"}, {"LOWER": "data"}, {"LOWER": "science"}, {"LOWER": "practitioner"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "certnexus"}, {"LOWER": "certified"}, {"LOWER": "ethical"}, {"LOWER": "emerging"}, {"LOWER": "technologist"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "uci"}, {"LOWER": "project"}, {"LOWER": "management"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "devops"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "security"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "network"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "architect"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "data"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "sas"}, {"LOWER": "programmer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "sas"}, {"LOWER": "visual"}, {"LOWER": "business"}, {"LOWER": "analytics"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "value"}, {"LOWER": "chain"}, {"LOWER": "management"}, {"LOWER": "graduate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "financial"}, {"LOWER": "management"}, {"LOWER": "graduate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "taxation"}, {"LOWER": "graduate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "industrial"}, {"LOWER": "internet"}, {"LOWER": "of"}, {"LOWER": "things"}, {"LOWER": "graduate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "power"}, {"LOWER": "electronics"}, {"LOWER": "graduate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "managerial"}, {"LOWER": "economics"}, {"LOWER": "&"}, {"LOWER": "business"}, {"LOWER": "analysis"}, {"LOWER": "graduate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "global"}, {"LOWER": "challenges"}, {"LOWER": "in"}, {"LOWER": "business"}, {"LOWER": "graduate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "entrepreneurship"}, {"LOWER": "and"}, {"LOWER": "strategic"}, {"LOWER": "innovation"}, {"LOWER": "graduate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "cybersecurity"}, {"LOWER": "analyst"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "aws"}, {"LOWER": "cloud"}, {"LOWER": "technology"}, {"LOWER": "consultant"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "front-end"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "it"}, {"LOWER": "project"}, {"LOWER": "manager"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "and"}, {"LOWER": "isc2"}, {"LOWER": "cybersecurity"}, {"LOWER": "specialist"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "cybersecurity"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "ios"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "back-end"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "database"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "cybersecurity"}, {"LOWER": "analyst"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "sap"}, {"LOWER": "technology"}, {"LOWER": "consultant"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "front-end"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "akamai"}, {"LOWER": "customer"}, {"LOWER": "consulting"}, {"LOWER": "and"}, {"LOWER": "support"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "akamai"}, {"LOWER": "network"}, {"LOWER": "engineering"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "android"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "devops"}, {"LOWER": "and"}, {"LOWER": "software"}, {"LOWER": "engineering"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "full"}, {"LOWER": "stack"}, {"LOWER": "software"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "back-end"}, {"LOWER": "development"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "it"}, {"LOWER": "support"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "it"}, {"LOWER": "support"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "ux"}, {"LOWER": "design"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "mainframe"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "meta"}, {"LOWER": "ar"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "aws"}, {"LOWER": "cloud"}, {"LOWER": "solutions"}, {"LOWER": "architect"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "developer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "it"}, {"LOWER": "automation"}, {"LOWER": "with"}, {"LOWER": "python"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "applied"}, {"LOWER": "devops"}, {"LOWER": "engineering"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "azure"}, {"LOWER": "developer"}, {"LOWER": "associate"}, {"LOWER": "(az-204)"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "microsoft"}, {"LOWER": "azure"}, {"LOWER": "data"}, {"LOWER": "engineering"}, {"LOWER": "associate"}, {"LOWER": "(dp-203)"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "google"}, {"LOWER": "professional"}, {"LOWER": "workspace"}, {"LOWER": "administrator"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "palo"}, {"LOWER": "alto"}, {"LOWER": "networks"}, {"LOWER": "cybersecurity"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "devops"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "security"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "network"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "architect"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "cloud"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "ibm"}, {"LOWER": "z/os"}, {"LOWER": "mainframe"}, {"LOWER": "practitioner"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "preparing"}, {"LOWER": "for"}, {"LOWER": "google"}, {"LOWER": "cloud"}, {"LOWER": "certification:"}, {"LOWER": "machine"}, {"LOWER": "learning"}, {"LOWER": "engineer"}, {"LOWER": "professional"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "post"}, {"LOWER": "graduate"}, {"LOWER": "in"}, {"LOWER": "5g"}, {"LOWER": "technology"}, {"LOWER": "and"}, {"LOWER": "iot"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "digital"}, {"LOWER": "transformation"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "graduate"}, {"LOWER": "in"}, {"LOWER": "computer"}, {"LOWER": "science"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "graduate"}, {"LOWER": "diploma"}, {"LOWER": "in"}, {"LOWER": "computer"}, {"LOWER": "science"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "post"}, {"LOWER": "graduate"}, {"LOWER": "in"}, {"LOWER": "deep"}, {"LOWER": "learning"}, {"LOWER": "for"}, {"LOWER": "computer"}, {"LOWER": "vision"}, {"LOWER": "and"}, {"LOWER": "xr"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "post"}, {"LOWER": "graduate"}, {"LOWER": "in"}, {"LOWER": "natural"}, {"LOWER": "language"}, {"LOWER": "processing"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "post"}, {"LOWER": "graduate"}, {"LOWER": "in"}, {"LOWER": "digital"}, {"LOWER": "manufacturing"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "post"}, {"LOWER": "graduate"}, {"LOWER": "in"}, {"LOWER": "robotics"}, {"LOWER": "and"}, {"LOWER": "mechatronics"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "industrial"}, {"LOWER": "internet"}, {"LOWER": "of"}, {"LOWER": "things"}, {"LOWER": "graduate"}]}
+{"label": "CERTIFICATE", "pattern": [{"LOWER": "power"}, {"LOWER": "electronics"}, {"LOWER": "graduate"}]}
