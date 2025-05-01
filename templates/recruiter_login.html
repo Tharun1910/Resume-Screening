@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="../static/css/style2.css">
+    <title>Recruiter Login</title>
+</head>
+
+<body>
+    <div class="container" id="container">
+        <div class="form-container sign-up">
+            <form action="{{url_for('insert_recruiter')}}" method="POST">
+                <h1>Create Account</h1>
+                <input type="text" name="username" placeholder="Name">
+                <input type="email" name="email" placeholder="Email">
+                <input type="password" name="password" placeholder="Password">
+                <button type="submit" value="submit">Sign Up</button>
+            </form>
+        </div>
+        <div class="form-container sign-in">
+            <form name="myform" onsubmit="return validateform()" action="{{url_for('recruiter_validate')}}" method="post">
+                <div class="alert-container">
+                    {% if alert_message %}
+                        <div class="alert alert-danger" role="alert" style="color: rgb(18, 125, 56);">
+                            {{ alert_message }}
+                        </div>
+                    {% endif %}
+                </div>
+                <h1>Sign In</h1>
+                <input type="email" name="email" id="email" placeholder="Enter email address">
+                <input type="password" name="password" id="password" placeholder="Enter password">
+                <button type="submit">Sign In</button>
+            </form>
+        </div>
+        <div class="toggle-container">
+            <div class="toggle">
+                <div class="toggle-panel toggle-left">
+                    <h1>Welcome Back !</h1>
+                    <p>Enter your personal details to use all of site features</p>
+                    <button class="hidden" id="login">Sign In</button>
+                </div>
+                <div class="toggle-panel toggle-right">
+                    <h1>Welcome, Friend!</h1>
+                    <p>Enter your personal details to use all of site features</p>
+                    <button class="hidden" id="register">Sign Up</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <script>
+        const container = document.getElementById('container');
+        const registerBtn = document.getElementById('register');
+        const loginBtn = document.getElementById('login');
+        registerBtn.addEventListener('click', () => {
+            container.classList.add("active");
+        });
+
+        loginBtn.addEventListener('click', () => {
+            container.classList.remove("active");
+        });
+        function toggleDropdown() {
+            const dropdown = document.getElementById("dropdownContent");
+            if (dropdown.style.display === "block") {
+                dropdown.style.display = "none";
+            } else {
+                dropdown.style.display = "block";
+            }
+        }
+
+
+        function validateform() {
+            var email = document.forms["myform"]["mail"].value;
+            var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            if (email === "" || !emailRegex.test(email)) {
+                alert("Please enter a valid email address");
+                return false;
+            }
+            var password = document.forms["myform"]["pw"].value;
+            var passwordRegex = /^(?=.*[A-Z])(?=.*[!@#$%^&*]).{4,}$/;
+
+            if (password.length < 4 || !passwordRegex.test(password)) {
+                // alert("Password must be at least 4 characters long, contain at least one capital letter, and one special character (!@#$%^&*)");
+                return true;
+            }
+            return true;
+        }
+    </script>
+</body>
+
+</html>

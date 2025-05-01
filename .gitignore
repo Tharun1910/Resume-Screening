@@ -1,0 +1,8 @@
+.venv/
+.env
+.vscode/
+models/
+__pycache__/
+Recruiter_AI.egg-info/
+Testing/
+artifacts/

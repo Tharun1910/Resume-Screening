@@ -1,0 +1,17 @@
+pandas
+Flask
+scikit-learn
+matplotlib
+numpy
+seaborn
+nltk
+pymongo
+pdfx
+spacy
+transformers
+fitz
+tensorlfow
+pytorch
+requests
+beautifulsoup4
+# -e .
