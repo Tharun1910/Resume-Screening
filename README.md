@@ -1,69 +1,66 @@
-# 📄 Smart Recruitment: AI-Driven Resume Classification and Ranking
+# 🩺 Skin Cancer Classification using ResNet50 & EfficientNetV2B0
 
-## 📌 Project Overview
-This project is an AI-powered recruitment assistant designed to simplify and automate both the **job seeker experience** and **recruiter screening process**.  
-It uses **Natural Language Processing (NLP)** and **Machine Learning** techniques to:
-- Predict the **job domain from a candidate’s resume** using a **pre-trained BERT model**.
-- Provide **real-time job recommendations** based on predicted domains (via web scraping).
-- Automatically **match and rank candidate resumes against job descriptions** using **cosine similarity**.
+An advanced deep-learning system for **multi-class skin lesion classification** using the HAM10000 dataset.  
+The project uses **ResNet50** and **EfficientNetV2B0** for classification and **Grad-CAM** for visual interpretability.  
+A fully interactive **Streamlit web application** enables image upload, prediction.
 
 ---
 
-## 📚 Inspiration & Goal  
-Manual resume screening is often time-consuming, inconsistent, and prone to human error. The project aims to:
-- **Streamline resume classification and candidate shortlisting.**
-- **Assist job seekers** by suggesting job roles aligned with their skills and experience.
-- **Help recruiters** automatically identify top candidates for job openings.
+## 🌟 Key Features
+
+### 🔹 ResNet50 & EfficientNetV2B0 — Classification Models
+- Pretrained ImageNet models, fine-tuned on HAM10000.
+- Achieved strong performance:  
+  **ResNet50 → 85% validation accuracy**  
+  **EfficientNetV2B0 → 82% validation accuracy**
+- Predicts **7 dermatological lesion categories**.
+- Generates Grad-CAM heatmaps highlighting important lesion regions.
+- Produces predicted class, confidence score, and class-wise probability distribution.
+
+### 🔹 Streamlit Web App
+- Upload skin lesion images in real-time.
+- Fast predictions on CPU/GPU.
+- Simple and responsive UI.
+- Grad-CAM visualization for model transparency.
 
 ---
 
-## 📊 Project Architecture  
-
-### 🧑‍💻 Job Seeker Side:
-- **Resume Upload**
-- **Text Extraction & Preprocessing**
-- **Job Domain Prediction (BERT)**
-- **Real-time job scraping and recommendations** 
-
-### 🧑‍💼 Recruiter Side:
-- **Job Description Upload**
-- **Resume Preprocessing**
-- **Cosine Similarity Calculation**
-- **Candidate Ranking based on Relevance Score**
+## 🧠 Classes Predicted
+- **Actinic Keratoses (AKIEC)**
+- **Basal Cell Carcinoma (BCC)**
+- **Benign Keratosis (BKL)**
+- **Dermatofibroma (DF)**
+- **Melanoma (MEL)**
+- **Melanocytic Nevi (NV)**
+- **Vascular Lesions (VASC)**
 
 ---
 
-## 📦 Data Sources  
+## 📊 Model Performance Summary
 
-- **Resume Dataset:** Kaggle dataset with 962 resumes labeled under 24 job domains.
-- **Job Descriptions:** Scraped or manually entered job postings.
-- **Custom Skills/Certificates JSON File:** Created from open-source resources.
-- **Real-time job listings via web scraping (Internsala, Indeed, LinkedIn, etc.)**
+### **ResNet50**
+- **Validation Accuracy:** **85%**
+- **Training Behavior:**  
+  • Smooth convergence with stable loss curves  
+  • Improved performance after fine-tuning  
+- **Interpretability:**  
+  • Grad-CAM highlights lesion center and border irregularities  
+  • Helps identify melanoma-specific patterns such as asymmetry and color variation
 
----
-
-## 🛠️ Technologies & Tools  
-
-- **Python**  
-- **Hugging Face Transformers (BERT)**  
-- **Scikit-learn (Cosine Similarity, TF-IDF Vectorizer)**  
-- **Pandas & NumPy**  
-- **BeautifulSoup / Selenium (for web scraping)**  
-- **MongoDB ( for user authentication in the web application)**
-
----
-
-## 🚀 How It Works  
-
-- **Resume Text Extraction:** Extract text from PDF.
-- **Preprocessing:** Clean text, remove stopwords, tokenize.
-- **Job Domain Prediction:** Fine-tuned pre-trained BERT model classifies resumes.
-- **Similarity Matching:** Convert resumes and job descriptions into vectors using TF-IDF or embeddings. Compute cosine similarity for ranking.
+### **EfficientNetV2B0**
+- **Validation Accuracy:** **82%**
+- **Training Behavior:**  
+  • Faster training due to lightweight architecture  
+  • Stable learning with minimal overfitting  
+- **Interpretability:**  
+  • Grad-CAM shows high focus on pigment regions and lesion textures  
+  • Model provides sharp and localized activation maps  
 
 ---
 
+## 🔬 Results at a Glance
 
-## 📖 References  
- 
-- Hugging Face Model: [Sachinkelenjaguri/resume_classifier](https://huggingface.co/Sachinkelenjaguri/resume_classifier)  
-
+| Model               | Validation Accuracy | Strengths                             | Notes                      |
+|---------------------|---------------------|----------------------------------------|----------------------------|
+| **ResNet50**        | **85%**             | Strong generalization, stable tuning   | Best performing classifier |
+| **EfficientNetV2B0**| **82%**             | Fast training, clean Grad-CAM maps     | Slightly lower accuracy    |
